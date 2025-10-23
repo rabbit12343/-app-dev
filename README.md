@@ -2,7 +2,7 @@
 My first repository
 
 **MY FAVORITE SERIES**
-*ANIME*
+*(ANIME)*
 1. ONE PIECE
 2. NARUTO
 3. BLEACH
